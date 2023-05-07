@@ -1,0 +1,30 @@
+.all{
+    margin: 20px 0;
+}
+.all > div{
+    height: 300px;
+    border: 2px solid #ededed;
+}
+.brown > div{
+    background-color: brown;
+}
+
+.yellowgreen > div{
+    background-color: yellowgreen;
+}
+
+.orange > div{
+    background-color: orange;
+}
+
+.blueviolet > div{
+    background-color: blueviolet;
+}
+
+.hotpink > div{
+    background-color: hotpink;
+}
+.img-fluid{
+    height: 300px;
+    margin: 15px 0;
+}
